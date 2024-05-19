@@ -1,4 +1,4 @@
-print('test1')
+print('test1a')
 """
 EX8: Se da variabila num = 12
 a. Verifica daca num citit este pozitiv.
